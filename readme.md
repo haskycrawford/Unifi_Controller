@@ -1,10 +1,10 @@
 List of Linux compatible;
 
 
-Ubuntu Precise Pangolin ( 12.04 )  
-Ubuntu Trusty Tahr ( 14.04 )
-Ubuntu Xenial Xerus ( 16.04 )
-Ubuntu Bionic Beaver ( 18.04 )
+Ubuntu Precise Pangolin ( 12.04 )  \
+Ubuntu Trusty Tahr ( 14.04 ) \
+Ubuntu Xenial Xerus ( 16.04 ) \
+Ubuntu Bionic Beaver ( 18.04 ) \
 Ubuntu Cosmic Cuttlefish ( 18.10 )
 Ubuntu Disco Dingo ( 19.04 )
 Ubuntu Eoan Ermine  ( 19.10 )
